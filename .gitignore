@@ -1,0 +1,9 @@
+# Llaves locales: nunca al repo
+newGardenNew/Core/DI/Secrets.swift
+
+# Xcode
+xcuserdata/
+build/
+DerivedData/
+*.ipa
+.DS_Store

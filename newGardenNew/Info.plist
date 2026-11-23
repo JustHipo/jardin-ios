@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>La cámara se usa para fotografiar tus plantas: para identificarlas al añadirlas y para diagnosticar su salud.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Tu ubicación se usa para calcular el riego según el clima real de tu zona. Nunca sale de tu dispositivo salvo para consultar el pronóstico.</string>
+</dict>
+</plist>
